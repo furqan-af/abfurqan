@@ -1,7 +1,7 @@
 # hi 👋 i'am furqan  💫 A passionate developer from India
   <br>👯  I’m currently working on MERN Stack and Cloud Computing <br>🌱 I’m currently learning new tech stack<br>💬 Ask me about JavaScript, TypeScript, MERN stack, coding problems<br>📫 How to reach me: furqancsit7@gmail.com <br><br>
 
-
+ 
 ## 🌐Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/furqan_03_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul furqan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdul furqan) 
